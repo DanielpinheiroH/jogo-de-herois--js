@@ -1,7 +1,7 @@
 # jogo-de-herois--js
 
 <p align="center">
-  <img src="assets/banner.png" alt="Jogo de Heróis - JavaScript" width="100%" />
+  <img src="assetsbanner.png" alt="Jogo de Heróis - JavaScript" width="100%" />
 </p>
 
 Projeto de heróis com classes, ataques, níveis e batalhas — desafio evoluído da DIO
