@@ -5,8 +5,8 @@
 </p>
 
 Projeto de heróis com classes, ataques, níveis e batalhas — desafio evoluído da DIO
-📄 README.md
-markdown
+
+
 
 # 🧙‍♂️ Jogo de Heróis — JavaScript
 
