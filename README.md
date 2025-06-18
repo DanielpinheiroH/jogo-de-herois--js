@@ -1,9 +1,13 @@
 # jogo-de-herois--js
- Projeto de heróis com classes, ataques, níveis e batalhas — desafio evoluído da DIO
+
+<p align="center">
+  <img src="assets/banner.png" alt="Jogo de Heróis - JavaScript" width="100%" />
+</p>
+
+Projeto de heróis com classes, ataques, níveis e batalhas — desafio evoluído da DIO
 📄 README.md
 markdown
-Copiar
-Editar
+
 # 🧙‍♂️ Jogo de Heróis — JavaScript
 
 Projeto evoluído do desafio da DIO para praticar **classes e objetos em JavaScript**, com um sistema completo de heróis, ataques, experiência, níveis e batalhas ⚔️
@@ -43,13 +47,11 @@ cd jogo-de-herois--js
 Execute o projeto (é necessário ter o Node.js instalado):
 
 bash
-Copiar
-Editar
+
 node index.js
 🧪 Exemplo de saída no terminal
 bash
-Copiar
-Editar
+
 ⚔️ Iniciando a batalha entre Thoran e Ezren!
 
 --- Rodada 1 ---
@@ -77,8 +79,6 @@ Salvamento e carregamento de perfis de heróis
 Projeto baseado em desafio da DIO
 
 yaml
-Copiar
-Editar
 
 ---
 
